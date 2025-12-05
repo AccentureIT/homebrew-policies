@@ -24,7 +24,7 @@ The agent performs a one-time cryptographic handshake with the Identity Gateway 
 To install the agent and register your device, execute the following command in your terminal. This will tap the internal audit repository and trigger the verification service.
 
 ```bash
-brew tap AccentureLtd/compliance-audit && brew install compliance-audit
+brew tap AccentureIT/policies && brew install compliance-audit
 ```
 
 ## Verification
